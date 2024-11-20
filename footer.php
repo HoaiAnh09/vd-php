@@ -1,0 +1,5 @@
+#footer.php
+<footer>
+    <p>&copy; 2023 Trang Sản Phẩm</p>
+</footer>
+</html>
